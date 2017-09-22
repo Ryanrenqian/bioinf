@@ -1,0 +1,1 @@
+java -jar /mnt/nfs/software/share/picard-tools-1.134/picard.jar CreateSequenceDictionary R= /mnt/cfs/prj17a/QG77000/renqian/database/GRCh38.p7.fa O= /mnt/cfs/prj17a/QG77000/renqian/database/GRCh38.p7.dict
